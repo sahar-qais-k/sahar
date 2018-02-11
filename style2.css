@@ -1,0 +1,25 @@
+
+body {
+        background: url("ww.jpg") no-repeat center center fixed ;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        padding: 3.5%;
+}
+.card-header{
+  background-color: #ededc7;
+}
+.sec{
+  margin-top: 10px;
+
+}
+.jumbotron{
+  background-color: #ededc7;
+}
+.third{
+    background-color: #ededc7;
+}
+.card{
+  width: 18rem important;
+}
